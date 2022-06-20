@@ -1,0 +1,12 @@
+[package]
+name = "gigacad"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bytemuck = "1.9.1"
+pollster = "0.2.5"
+winit = "0.26.1"
+wgpu = "0.12.0"
